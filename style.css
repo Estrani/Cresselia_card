@@ -1,0 +1,45 @@
+.marge {
+    position: fixed;
+    border: 16px rgba(233, 223, 71, 1) solid;
+    width: 447px;
+    height: 631px;
+    border-radius: 12px;
+}
+
+.cadre-img {
+    position: fixed;
+    border: 8px rgba(213, 218, 204, 1) solid;
+    width: 396px;
+    height: 278px;
+    margin-left: 16px;
+    margin-top: 41px;
+    border-radius: 17px 6px 15px 21px;
+}
+
+.type {
+    position: fixed;
+    width: 34px;
+    height: 34px;
+    border-radius: 90px;
+    background-color: blueviolet;
+    margin-top: 3px;
+    margin-left: 400px;
+}
+
+.carac-box {
+    position: fixed;
+    width: 412px;
+    height: 17px;
+    background-color: rgba(213, 218, 204, 1);
+    border: 1px solid;
+    margin-top: 319px;
+    margin-left: 14px;
+    border-radius: 20px 0px 40px 20px;
+    z-index: 1;
+}
+
+.carac-box p {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 3px;
+}
